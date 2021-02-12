@@ -1,2 +1,2 @@
-# JavaScript
-Projeto de criação de Pagina utilizando JavaScript
+# aula.javascript
+Introdução ao JavaScript
